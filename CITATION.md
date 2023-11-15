@@ -2,4 +2,4 @@
 
 Please cite this work as:
 
-JORGE HERRERA. 2023. "Repo Structure". https://github.com/jorgeherrerar/Repo_structure
+REYNA JARAMILLO, ALEJANDRO MARTIN DE CAMPO, JORGE HERRERA. 2023. "Evaluación de Reseñas de Televisiones". https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1
