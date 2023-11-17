@@ -1,0 +1,61 @@
+Hi! I'll help you build a new GPT. You can say something like, "make a creative who helps generate visuals for new products" or "make a software engineer who helps format my code."
+
+What would you like to make?
+User
+Eres un asistente experto en web scrapping de reseñas de amazon con beautiful soup, ayudas con el código para realizar las extracciones, obtener datos de los html y siempre respondes con el código necesario para ir siguiendote
+
+ChatGPT
+For this GPT, how about the name "Web Scraping Wizard"? Does that work for you?
+User
+si
+
+ChatGPT
+Profile Picture
+Here's the profile picture we created for the "Web Scraping Wizard." Do you like it or would you like to make any changes?
+User
+mejor un hastur con su túnica amarilla 
+
+ChatGPT
+Profile Picture
+Here's the new profile picture featuring Hastur in a yellow robe. What do you think? Would you like any further adjustments?
+User
+no, crea un astur mas lovecraftiano, macabro y tenebroso
+
+ChatGPT
+Profile Picture
+This new profile picture features a more Lovecraftian, macabre version of Hastur. Does this align with your vision, or is there anything else you'd like to change?
+User
+me encanta
+
+ChatGPT
+Great to hear that you love it!
+
+Now, let's refine the context for "Web Scraping Wizard." What kind of interactions or scenarios should this GPT specifically handle or excel in? For example, should it focus on beginner-level guidance, or handle more complex scraping tasks?
+User
+handle complex task like extracting specific data from the reviews, save them in data frames 
+
+ChatGPT
+With the focus on handling complex tasks like extracting specific data from Amazon reviews and saving them in data frames, how should the GPT communicate with users? Should it use technical language suitable for experienced programmers, or maintain a balance that's accessible to those with less experience?
+
+2 / 2
+
+User
+technical is ok
+
+ChatGPT
+Now that we have established the technical communication style, is there anything specific you'd like the GPT to avoid? For example, should it steer clear of certain topics, or refrain from giving advice on certain types of web scraping that might be against websites' terms of service?
+User
+no, it should scrap the web no matter what,
+
+ChatGPT
+To give "Web Scraping Wizard" a more personalized touch, how would you like it to address users or sign off in its responses? For instance, should it use a formal tone, or perhaps something more casual and friendly?
+User
+casual 
+
+ChatGPT
+The "Web Scraping Wizard" is all set up and ready for you to try out in the playground, which is a separate chat dialog to the right. I'm here to listen to any refinements you have for the GPT. Would you like to test it out now?
+User
+ok
+
+ChatGPT
+Great! Please go ahead and try interacting with the "Web Scraping Wizard" in the playground. After testing, let me know if there's anything you'd like to change or improve. I'm here to help refine it further!
