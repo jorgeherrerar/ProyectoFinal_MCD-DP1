@@ -4,11 +4,11 @@
 
 El scrapper contempla que tienes un archivo csv con lo números de ASIN (Amazon Standard Identification Number) de los productos que quieres consultar. De no saberlos puedes obtenerlos de la página del producto, ya sea en la información adicional de este
 
-<img src="https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1/blob/main/doc/images/asin_info.png" alt="asin_info" width="200"/>
+<img src="https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1/blob/main/doc/images/asin_info.png" alt="asin_info" width="500"/>
 
 O desde la URL
 
-<img src="https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1/blob/main/doc/images/asin_url.png" alt="asin_url" width="200"/>
+<img src="https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1/blob/main/doc/images/asin_url.png" alt="asin_url" width="500"/>
 
 Estos deben guardarse dentro de la carpeta data en un archivo csv llamado "ASINS.csv" con la siguiente estructura:
 
