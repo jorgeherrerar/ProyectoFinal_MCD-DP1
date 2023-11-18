@@ -109,7 +109,7 @@ master_df = pd.DataFrame(columns=['asin', 'star_rating', 'title', 'review_text']
 if __name__ == '__main__':
     df_asin = pd.read_csv('./data/ASINS.csv')  
     asin_list = df_asin['ASIN'].tolist()
-    max_pages_per_asin = 2
+    max_pages_per_asin = 5
     number = 1
     for asin in asin_list:
         print(f'Extrayendo asin {asin}, número {number} de {len(asin_list)}')

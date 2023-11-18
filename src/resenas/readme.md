@@ -10,7 +10,7 @@ O desde la URL
 
 <img src="https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1/blob/main/doc/images/asin_url.png" alt="asin_url" width="500"/>
 
-Estos deben guardarse dentro de la carpeta data en un archivo csv llamado "ASINS.csv" con la siguiente estructura:
+Estos ASIN deben guardarse dentro de la carpeta data en un archivo csv llamado "ASINS.csv" con la siguiente estructura:
 
 |ASIN|
 |---|
@@ -18,7 +18,9 @@ Estos deben guardarse dentro de la carpeta data en un archivo csv llamado "ASINS
 |B0C47PZ6HR|
 |B08TVSM195|
 
-Para correr el scrapper se debe ejecutar el archivo 'src/resenas/scrapper_resenas.py', este archivo esta confiogurado para obtener un máximo de 2 páginas de reseñas por producto, basta con cambiar el valor de la variable *max_pages_per_asin* para omitir esta limitante, al ejecutar este archivo se guardarán los resultados en un archivo csv '/results/all_amazon_reviews.csv' con la siguiente estructura:
+*Se recomienda que los productos a consultar sean vendidos por amazon méxico, ya que si los vende Amazon estaod unidos este scrapper no obtiene los ratings ni el texto del review
+
+Para correr el scrapper se debe ejecutar el archivo 'src/resenas/scrapper_resenas.py', este archivo esta confiogurado para obtener un máximo de 5 páginas de reseñas por producto, basta con cambiar el valor de la variable *max_pages_per_asin* para omitir esta limitante, al ejecutar este archivo se guardarán los resultados en un archivo csv '/results/all_amazon_reviews.csv' con la siguiente estructura:
 
 |asin|star_rating|title|review_text|
 |---|---|---|---|
