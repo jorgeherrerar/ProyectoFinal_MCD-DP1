@@ -18,7 +18,7 @@ Estos ASIN deben guardarse dentro de la carpeta data en un archivo csv llamado "
 |B0C47PZ6HR|
 |B08TVSM195|
 
-*Se recomienda que los productos a consultar sean vendidos por amazon méxico, ya que si los vende Amazon estaod unidos este scrapper no obtiene los ratings ni el texto del review
+*Se recomienda que los productos a consultar sean vendidos por amazon méxico, ya que si los vende Amazon Estados Unidos este scrapper no obtiene los ratings ni el texto del review
 
 Para correr el scrapper se debe ejecutar el archivo 'src/resenas/scrapper_resenas.py', este archivo esta confiogurado para obtener un máximo de 5 páginas de reseñas por producto, basta con cambiar el valor de la variable *max_pages_per_asin* para omitir esta limitante, al ejecutar este archivo se guardarán los resultados en un archivo csv '/results/all_amazon_reviews.csv' con la siguiente estructura:
 
