@@ -52,9 +52,9 @@ Baja subjetividad: El texto tiende a ser objetivo y basado en hechos más que en
 
 ## Conclusión
 
+En este proyecto se realizaron las actividades de: Web Scraping Análisis de Sentimientos y  un breve análisis exploratorio de datos con el uso de las librearías: BeautifulSoup, TextBlob y Altair respectivamente donde comprobamos que el análisis de sentimiento coindice que los comentarios son en su mayormente positivos esto concuerda con que la mayoría de las calificaciones dadas son de 4 y 5 estrellas. 
 
-#
-
+![image](https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1/assets/109696745/e7d3507c-b9ec-4b73-9f49-d4a586f1d862)
 
 
 ## Referencias 
