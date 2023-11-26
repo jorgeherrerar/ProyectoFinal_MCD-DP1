@@ -1,1 +1,1 @@
-# Carpeta con archivos de texto
+# Carpeta con archivos de texto e imágenes

@@ -1,11 +1,5 @@
 # Análisis de productos vendidos por medio de e-commerce: Caso de Amazon
 
-## Abstract
-
-
-
-
-
 ## Introducción
 
 En los ultimos años el comercio electronico se ha vuelto el canal de compra preferido por millones de personas, desde comprar el super hasta automoviles, tal es el caso que en México para el año 2022 el valor de este tipo de comercio superaba los 33.000 millones de dolares, siendo el segundo más importante a nivel mundial solo por encima de Brasil. 

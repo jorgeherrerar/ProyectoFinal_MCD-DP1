@@ -1,0 +1,1 @@
+El archivo html contiene un ejemplo de una página de reseñas de amazon
