@@ -22,10 +22,32 @@ Lo primero que se tiene que realizar es el scraping de los productos, para lo cu
 
 
 
-### Scrapping 
+### Análisis de Dentimientos
+En el análisis de sentimientos, la polaridad y la subjetividad son dos dimensiones importantes para entender la opinión expresada en un texto. Estos valores son calculados mediante algoritmos de procesamiento de lenguaje natural (NLP) y análisis de sentimientos. Aquí explicamos cómo interpretar estos valores:
+
+Polaridad:
+
+Definición: La polaridad indica la dirección o el tono de la opinión expresada en el texto. Puede ser positiva, negativa o neutra.
+Interpretación:
+Positiva: Indica que el texto expresa una opinión favorable o positiva hacia el tema.
+Negativa: Muestra una opinión desfavorable o negativa hacia el tema.
+Neutra: No hay una inclinación clara hacia lo positivo o lo negativo. La opinión es neutral.
+
+![image](https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1/assets/109696745/44953097-a614-4762-b780-e066aa3f5c3a)
 
 
 
+Subjetividad:
+
+Definición: La subjetividad mide el grado de subjetividad u objetividad en el texto. Un valor alto indica subjetividad, mientras que un valor bajo sugiere objetividad.
+Interpretación:
+Alta subjetividad: El texto está influenciado por las opiniones personales, emociones o juicios subjetivos del autor.
+Baja subjetividad: El texto tiende a ser objetivo y basado en hechos más que en opiniones personales.
+
+![image](https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1/assets/109696745/627b4cdf-a758-4db7-b734-fd74059739ee)
+
+
+![image](https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1/assets/109696745/cd0346a0-7297-41c2-b300-51226a27b3dc)
 
 ## Conclusión
 
