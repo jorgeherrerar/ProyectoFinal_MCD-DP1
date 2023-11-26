@@ -22,7 +22,7 @@ Lo primero que se tiene que realizar es el scraping de los productos, para lo cu
 
 
 
-### Análisis de Dentimientos
+### Análisis de Sentimientos
 En el análisis de sentimientos, la polaridad y la subjetividad son dos dimensiones importantes para entender la opinión expresada en un texto. Estos valores son calculados mediante algoritmos de procesamiento de lenguaje natural (NLP) y análisis de sentimientos. Aquí explicamos cómo interpretar estos valores:
 
 Polaridad:
