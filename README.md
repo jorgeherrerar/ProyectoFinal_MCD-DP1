@@ -10,7 +10,8 @@ Según datos de Amazon, en abril del 2023 contaba con casí 18 mil vendedores in
 
 Para poder comnzar con  el análisis de los productos, primero hay que identificar el ASIN (Amazon Standard Identification Number) de este, por lo general cada empresa ya cuenta con su listado de ASIN proporcionado por Amazón para cada producto que se encuentra en  venta en su plataforma, de no contar con el, puede ser consultado en la página de cada uno de los productos en el apartado de descripcion del mismo (como se muestra en la imagen). 
 
-![Alt text](image.png)
+![image](https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1/assets/109696745/847e6b86-211e-490b-aaae-0e01fa9db911)
+
 
 Lo primero que se tiene qe realizar es el scraping de los productos, para lo cual se esta considerando contar con un csv con los ASIN que se van a buscar, adempas que el lenguaje de programación utilizado será python. Para ello tomamos el csv que cuenta con 26 ASIN correspondientes a televisores de diferenres marcas y para los cuales vamos a buscar los datos que se mencionan en la tablaa. 
 
