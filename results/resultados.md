@@ -12,6 +12,15 @@ Para poder comnzar con  el análisis de los productos, primero hay que identific
 
 ![Alt text](image.png)
 
+Lo primero que se tiene qe realizar es el scraping de los productos, para lo cual se esta considerando contar con un csv con los ASIN que se van a buscar, adempas que el lenguaje de programación utilizado será python. Para ello tomamos el csv que cuenta con 26 ASIN correspondientes a televisores de diferenres marcas y para los cuales vamos a buscar los datos que se mencionan en la tablaa. 
+
+|asin|star_rating|title|review_text|
+|---|---|---|---|
+|B0CJNQBKX9|5.0 de 5 estrellas|EXCELENTE NITIDEZ Y CALIDAD DE IMAGEN|"Me fascino por la versatilidad"|
+
+
+
+
 ### Scrapping 
 
 
