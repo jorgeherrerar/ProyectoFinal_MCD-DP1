@@ -20,8 +20,7 @@ Lo primero que se tiene que realizar es el scraping de los productos, para lo cu
 |---|---|---|---|
 |B0CJNQBKX9|5.0 de 5 estrellas|EXCELENTE NITIDEZ Y CALIDAD DE IMAGEN|"Me fascino por la versatilidad"|
 
-
-
+Una vez realizado el scraping desde la página oficial de Amazon México, considerando los 25 ASIN que contenia el cvs, se octuvo un total de 380 registros, los cuales se van a utilizar para los análisis posteriores. 
 
 ### Análisis de Sentimientos
 En el análisis de sentimientos, la polaridad y la subjetividad son dos dimensiones importantes para entender la opinión expresada en un texto. Estos valores son calculados mediante algoritmos de procesamiento de lenguaje natural (NLP) y análisis de sentimientos. Aquí explicamos cómo interpretar estos valores:
@@ -49,6 +48,8 @@ Baja subjetividad: El texto tiende a ser objetivo y basado en hechos más que en
 
 
 ![image](https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1/assets/109696745/cd0346a0-7297-41c2-b300-51226a27b3dc)
+
+
 
 ## Conclusión
 
