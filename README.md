@@ -2,13 +2,13 @@
 
 ## Introducción
 
-En los últimos años el comercio electrónico se ha vuelto el canal de compra preferido por millones de personas, desde comprar el super hasta automóviles, tal es el caso que en México para el año 2022 el valor de este tipo de comercio superaba los 33.000 millones de dólares, siendo el segundo más importante a nivel mundial solo por encima de Brasil. 
+En los últimos años el comercio electrónico se ha vuelto el canal de compra preferido por millones de personas, desde comprar el súper hasta automóviles, tal es el caso que en México para el año 2022 el valor de este tipo de comercio superaba los 33.000 millones de dólares, siendo el segundo más importante a nivel mundial solo por encima de Brasil. 
 
-Según datos de Amazon, en abril del 2023 contaba con casi 18 mil vendedores independientes, de los cuales 99 % eran PyMes, las que tienen un estimado de 3 millones de productos en venta en esta plataforma. Por ello este análisis se centra en la manera en que una empresa o PyMe, puede revisar el título, calificación y comentarios de sus productos por medio de web scraping, y análisis de lenguaje natural. 
+Según datos de Amazon, en abril del 2023 contaba con casi 18 mil vendedores independientes, de los cuales 99 % eran PyMes, las que tienen un estimado de 3 millones de productos en venta en esta plataforma. Por ello, este análisis se centra en la manera en que una empresa o PyMe, puede revisar el título, calificación y comentarios de sus productos por medio de web scraping, y análisis de lenguaje natural. 
 
 ## Desarrollo
 
-Para poder comenzar con  el análisis de los productos, primero hay que identificar el ASIN (Amazon Standard Identification Number) de este, por lo general cada empresa ya cuenta con su listado de ASIN proporcionado por Amazón para cada producto que se encuentra en  venta en su plataforma, de no contar con él, puede ser consultado en la página de cada uno de los productos en el apartado de descripción del mismo (como se muestra en la imagen). 
+Para poder comenzar con  el análisis de los productos, primero hay que identificar el ASIN (Amazon Standard Identification Number) de este, por lo general cada empresa ya cuenta con su listado de ASIN proporcionado por Amazon para cada producto que se encuentra en  venta en su plataforma, de no contar con él, puede ser consultado en la página de cada uno de los productos en el apartado de descripción del mismo (como se muestra en la imagen). 
 
 ![image](https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1/assets/109696745/847e6b86-211e-490b-aaae-0e01fa9db911)
 
@@ -20,7 +20,7 @@ Lo primero que se tiene que realizar es el scraping de los productos, para lo cu
 |---|---|---|---|
 |B0CJNQBKX9|5.0 de 5 estrellas|EXCELENTE NITIDEZ Y CALIDAD DE IMAGEN|"Me fascino por la versatilidad"|
 
-Una vez realizado el scraping desde la página oficial de Amazon México, considerando los 25 ASIN que contenia el cvs, se octuvo un total de 380 registros, los cuales se van a utilizar para los análisis posteriores. 
+Una vez realizado el scraping desde la página oficial de Amazon México, considerando los 25 ASIN que contenía el csv, se obtuvieron un total de 380 registros, los cuales se van a utilizar para los análisis posteriores. 
 
 ### NLP
 
@@ -64,7 +64,7 @@ Baja subjetividad: El texto tiende a ser objetivo y basado en hechos más que en
 
 ## Conclusión
 
-En este proyecto se realizaron las actividades de: Web Scraping, NPL, Análisis de Sentimientos y  un breve análisis exploratorio de datos con el uso de las librearías: BeautifulSoup, Spacy, TextBlob y Altair respectivamente donde comprobamos que el análisis de sentimiento coincide que los comentarios son mayormente positivos esto concuerda con que la mayoría de las calificaciones dadas son de 4 y 5 estrellas y que las palabras mas representativas de cada ASIN también son positivas. 
+En este proyecto se realizaron las actividades de: Web Scraping, NPL, Análisis de Sentimientos y  un breve análisis exploratorio de datos con el uso de las librerías: BeautifulSoup, Spacy, TextBlob y Altair respectivamente donde comprobamos que el análisis de sentimiento coincide que los comentarios son mayormente positivos, esto concuerda con que la mayoría de las calificaciones dadas son de 4 y 5 estrellas y que las palabras más representativas de cada ASIN también son positivas. 
 
 ![image](https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1/assets/109696745/e7d3507c-b9ec-4b73-9f49-d4a586f1d862)
 
