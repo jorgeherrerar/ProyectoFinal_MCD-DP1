@@ -25,12 +25,13 @@ Una vez realizado el scraping desde la página oficial de Amazon México, consid
 ### NLP
 
 Utilizamos Spacy, una biblioteca de procesamiento de lenguaje natural (NLP, por sus siglas en inglés) usada para realizar tareas relacionadas con el procesamiento y análisis del lenguaje humano.
+
 ![image](https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1/assets/109696745/9f0a8f71-e599-452c-8b1c-06768e4509d5)
 
 Y creamos nubes de palabras con Sustantivos y Adjetivos Representativos por ASIN
 
-
 ![image](https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1/assets/109696745/44f88a79-75ff-4386-826a-6376b3186f62)
+
 
 ### Análisis de Sentimientos
 En el análisis de sentimientos, la polaridad y la subjetividad son dos dimensiones importantes para entender la opinión expresada en un texto. Estos valores son calculados mediante algoritmos de procesamiento de lenguaje natural (NLP) y análisis de sentimientos. Aquí explicamos cómo interpretar estos valores:
