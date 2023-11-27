@@ -16,11 +16,21 @@ Para poder comenzar con  el análisis de los productos, primero hay que identifi
 ### Scraping
 Lo primero que se tiene que realizar es el scraping de los productos, para lo cual se está considerando contar con un csv con los ASIN que se van a buscar, además que el lenguaje de programación utilizado será python. Para ello tomamos el csv que cuenta con 26 ASIN correspondientes a televisores de diferentes marcas y para los cuales vamos a buscar los datos que se mencionan en la tabla. 
 
-|asin|star_rating|title|review_text|
+|ASIN|star_rating|title|review_text|
 |---|---|---|---|
 |B0CJNQBKX9|5.0 de 5 estrellas|EXCELENTE NITIDEZ Y CALIDAD DE IMAGEN|"Me fascino por la versatilidad"|
 
 Una vez realizado el scraping desde la página oficial de Amazon México, considerando los 25 ASIN que contenia el cvs, se octuvo un total de 380 registros, los cuales se van a utilizar para los análisis posteriores. 
+
+### NLP
+
+Utilizamos Spacy, una biblioteca de procesamiento de lenguaje natural (NLP, por sus siglas en inglés) usada para realizar tareas relacionadas con el procesamiento y análisis del lenguaje humano.
+![image](https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1/assets/109696745/9f0a8f71-e599-452c-8b1c-06768e4509d5)
+
+Y creamos nubes de palabras con Sustantivos y Adjetivos Representativos por ASIN
+
+
+![image](https://github.com/jorgeherrerar/ProyectoFinal_MCD-DP1/assets/109696745/44f88a79-75ff-4386-826a-6376b3186f62)
 
 ### Análisis de Sentimientos
 En el análisis de sentimientos, la polaridad y la subjetividad son dos dimensiones importantes para entender la opinión expresada en un texto. Estos valores son calculados mediante algoritmos de procesamiento de lenguaje natural (NLP) y análisis de sentimientos. Aquí explicamos cómo interpretar estos valores:
